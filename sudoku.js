@@ -1,8 +1,5 @@
-// Hi, I'm Raul Hinojosa Perez, and this is my own "brute-force" way to solve a sudoku
-// 
 // Functional version (It solves the sudoku correctly): 19th november 2019
 // More responsive and user friendly version: 
-// 
 // 
 
 
